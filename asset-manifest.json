@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/covid19Kerala/static/css/main.639d7a3d.chunk.css",
+    "main.js": "/covid19Kerala/static/js/main.5a2bbe79.chunk.js",
+    "main.js.map": "/covid19Kerala/static/js/main.5a2bbe79.chunk.js.map",
+    "runtime-main.js": "/covid19Kerala/static/js/runtime-main.275377c3.js",
+    "runtime-main.js.map": "/covid19Kerala/static/js/runtime-main.275377c3.js.map",
+    "static/css/2.75dbc93a.chunk.css": "/covid19Kerala/static/css/2.75dbc93a.chunk.css",
+    "static/js/2.6b85fc68.chunk.js": "/covid19Kerala/static/js/2.6b85fc68.chunk.js",
+    "static/js/2.6b85fc68.chunk.js.map": "/covid19Kerala/static/js/2.6b85fc68.chunk.js.map",
+    "index.html": "/covid19Kerala/index.html",
+    "precache-manifest.b796922364d9d27ce345837320e78eb7.js": "/covid19Kerala/precache-manifest.b796922364d9d27ce345837320e78eb7.js",
+    "service-worker.js": "/covid19Kerala/service-worker.js",
+    "static/css/2.75dbc93a.chunk.css.map": "/covid19Kerala/static/css/2.75dbc93a.chunk.css.map",
+    "static/css/main.639d7a3d.chunk.css.map": "/covid19Kerala/static/css/main.639d7a3d.chunk.css.map",
+    "static/js/2.6b85fc68.chunk.js.LICENSE": "/covid19Kerala/static/js/2.6b85fc68.chunk.js.LICENSE",
+    "static/media/font-awesome.min.css": "/covid19Kerala/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.275377c3.js",
+    "static/css/2.75dbc93a.chunk.css",
+    "static/js/2.6b85fc68.chunk.js",
+    "static/css/main.639d7a3d.chunk.css",
+    "static/js/main.5a2bbe79.chunk.js"
+  ]
+}

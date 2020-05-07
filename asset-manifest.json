@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/covid19Kerala/static/css/main.639d7a3d.chunk.css",
-    "main.js": "/covid19Kerala/static/js/main.e9e8dd41.chunk.js",
-    "main.js.map": "/covid19Kerala/static/js/main.e9e8dd41.chunk.js.map",
+    "main.js": "/covid19Kerala/static/js/main.8ad7ee4a.chunk.js",
+    "main.js.map": "/covid19Kerala/static/js/main.8ad7ee4a.chunk.js.map",
     "runtime-main.js": "/covid19Kerala/static/js/runtime-main.275377c3.js",
     "runtime-main.js.map": "/covid19Kerala/static/js/runtime-main.275377c3.js.map",
     "static/css/2.75dbc93a.chunk.css": "/covid19Kerala/static/css/2.75dbc93a.chunk.css",
     "static/js/2.8dfe8b41.chunk.js": "/covid19Kerala/static/js/2.8dfe8b41.chunk.js",
     "static/js/2.8dfe8b41.chunk.js.map": "/covid19Kerala/static/js/2.8dfe8b41.chunk.js.map",
     "index.html": "/covid19Kerala/index.html",
-    "precache-manifest.a9b316aba1928f5142e64d3b7968cbf1.js": "/covid19Kerala/precache-manifest.a9b316aba1928f5142e64d3b7968cbf1.js",
+    "precache-manifest.360d7bd573599907381d9825e684cff9.js": "/covid19Kerala/precache-manifest.360d7bd573599907381d9825e684cff9.js",
     "service-worker.js": "/covid19Kerala/service-worker.js",
     "static/css/2.75dbc93a.chunk.css.map": "/covid19Kerala/static/css/2.75dbc93a.chunk.css.map",
     "static/css/main.639d7a3d.chunk.css.map": "/covid19Kerala/static/css/main.639d7a3d.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.75dbc93a.chunk.css",
     "static/js/2.8dfe8b41.chunk.js",
     "static/css/main.639d7a3d.chunk.css",
-    "static/js/main.e9e8dd41.chunk.js"
+    "static/js/main.8ad7ee4a.chunk.js"
   ]
 }

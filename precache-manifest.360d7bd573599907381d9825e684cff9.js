@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "133c0924df46ca10acc9c4c1b8f792ef",
+    "revision": "e463848c480afc46c173e3903b1be333",
     "url": "/covid19Kerala/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19Kerala/static/css/2.75dbc93a.chunk.css"
   },
   {
-    "revision": "af07451f4753a303eac1",
+    "revision": "1fea52b2f174a644678f",
     "url": "/covid19Kerala/static/css/main.639d7a3d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19Kerala/static/js/2.8dfe8b41.chunk.js.LICENSE"
   },
   {
-    "revision": "af07451f4753a303eac1",
-    "url": "/covid19Kerala/static/js/main.e9e8dd41.chunk.js"
+    "revision": "1fea52b2f174a644678f",
+    "url": "/covid19Kerala/static/js/main.8ad7ee4a.chunk.js"
   },
   {
     "revision": "1467a1dfd2c6b6195a0d",

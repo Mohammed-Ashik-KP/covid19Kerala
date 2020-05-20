@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/covid19Kerala/precache-manifest.db66d5ed0896630b1cc8b4e0efff0999.js"
+  "/covid19Kerala/precache-manifest.72f6c81d2fd474498371c68803896e87.js"
 );
 
 self.addEventListener('message', (event) => {
